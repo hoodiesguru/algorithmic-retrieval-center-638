@@ -1,0 +1,8 @@
+# Algorithmic Information Retrieval Center
+
+> Information Gain Modeling, Novelty Scoring, and Knowledge Graph Grounding
+
+## Published Research Monographs
+- [Information Gain Algorithms and Entity Graph Grounding in Generative Search Runtimes](information-gain-algorithms-entity-graph-grounding.html): An analytical exploration of how algorithmic search engines score content novelty, evaluate Schema.org entity hierarchies, and reward verified factual consensus.
+- [Patent Analysis: Algorithmic Information Gain Scoring](patent-analysis-information-gain-scoring.html): Deconstructing USPTO information gain patents and content novelty metrics.
+- [Entity Disambiguation via Microdata Hierarchies](entity-disambiguation-microdata-hierarchies.html): Structuring JSON-LD graphs to establish verified topical authority.
